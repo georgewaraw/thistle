@@ -4,6 +4,8 @@ is a 3D horror shooter concept that (respectfully) borrows textures, sounds, and
 
 **Play it on desktop or mobile at https://georgewaraw.github.io/thistle/**
 
+**or see the gameplay at https://youtu.be/2jMmznMro2E**
+
 #### CONTROLS
 
 ###### DESKTOP
