@@ -1,0 +1,35 @@
+{
+	"name": "@waraw/thistle",
+	"version": "0.1.0",
+	"homepage": "https://georgewaraw.github.io/thistle",
+	"dependencies": {
+		"@react-three/drei": "8.20.2",
+		"@react-three/fiber": "7.0.29",
+		"@react-three/postprocessing": "2.4.6",
+		"gh-pages": "^4.0.0",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"react-scripts": "5.0.1",
+		"three": "0.138.3"
+	},
+	"eslintConfig": {
+		"extends": [
+			"react-app"
+		]
+	},
+	"browserslist": {
+		"development": [
+			"last 1 chrome version",
+			"last 1 safari version"
+		],
+		"production": [
+			"defaults"
+		]
+	},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
+	}
+}
