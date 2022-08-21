@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thistle/static/css/main.f1e0e989.css",
+    "main.js": "/thistle/static/js/main.468c01d5.js",
+    "index.html": "/thistle/index.html",
+    "main.f1e0e989.css.map": "/thistle/static/css/main.f1e0e989.css.map",
+    "main.468c01d5.js.map": "/thistle/static/js/main.468c01d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1e0e989.css",
+    "static/js/main.468c01d5.js"
+  ]
+}

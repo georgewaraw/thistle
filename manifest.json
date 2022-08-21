@@ -1,0 +1,25 @@
+{
+	"name": "thistle.",
+	"short_name": "thistle.",
+	"icons": [
+		{
+			"src": "favicon.ico",
+			"type": "image/x-icon",
+			"sizes": "16x16 24x24 32x32 64x64"
+		},
+		{
+			"src": "logo_192.jpg",
+			"type": "image/jpeg",
+			"sizes": "192x192"
+		},
+		{
+			"src": "logo_512.jpg",
+			"type": "image/jpeg",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"theme_color": "#000000",
+	"background_color": "#ffffff"
+}
